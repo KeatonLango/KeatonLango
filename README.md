@@ -15,3 +15,6 @@ apt-get laid && npm install a-life
 <img align="center" alt="rafa-Rust" height="40" width=40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
 <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 </div>
+<script> 
+  
+{"coord":{"lon":-84.302,"lat":34.1124},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"base":"stations","main":{"temp":20.22,"feels_like":19.03,"temp_min":18.43,"temp_max":21.62,"pressure":1026,"humidity":28},"visibility":10000,"wind":{"speed":0.89,"deg":135,"gust":2.68},"clouds":{"all":16},"dt":1647885132,"sys":{"type":2,"id":2032097,"country":"US","sunrise":1647862769,"sunset":1647906551},"timezone":-14400,"id":0,"name":"Alpharetta","cod":200} </script>
