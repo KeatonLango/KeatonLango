@@ -1,6 +1,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeatonLango&layout=compact&langs_count=7&theme=monokai"/>
-
-
+[![Kain's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeatonLango)](https://github.com/anuraghazra/github-readme-stats)
 ```txt
 |------------]
 |
